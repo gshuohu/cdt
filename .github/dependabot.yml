@@ -1,5 +1,5 @@
 # https://help.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
-version: 3
+version: 2
 updates:
   - package-ecosystem: maven
     directory: /
